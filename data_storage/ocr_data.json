@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "image_path":"static\/uploads\/images.jpeg",
+        "extracted_text":"Cobitaa\n9JRI205"
+    },
+    {
+        "id":2,
+        "image_path":"static\/uploads\/Azerbaijanian_1994_license_plate_-_Baku.jpg",
+        "extracted_text":"90 DD 838\r\nAZ"
+    },
+    {
+        "id":3,
+        "image_path":"static\/uploads\/iD-NOV2022.jpg",
+        "extracted_text":"Cayman Islands\nIdentity Card\nSURNAME\nEBANKS\nGIVEN NAMES\nJOHN JAMES\nSEX\nDOCUMENT NUMBER\nM\n1234 1234 1234\nNATIONALITY\nDATE OF ISSUE\nBOTC\n19 Sept 2020\nDATE OF BIRTH\nDATE OF EXPIRY\n17 Sept 1995\n19 Sept 2025\nIMMIGRATION STATUS\nCAYMANIAN\n~n4"
+    }
+]
