@@ -35,4 +35,13 @@ pip install -r requirements.txt
 ```
 <br/>
 
-### ****
+### **4️⃣ Run the Flask App**
+```bash
+python app.py
+```
+✅ Your app is now running! Open http://127.0.0.1:5000/ in your browser.
+
+
+<br/>
+
+
