@@ -19,7 +19,7 @@ Follow these steps to set up the project on your local machine.
 git clone https://github.com/Shah114/ocr-web-app.git
 cd ocr-web-app
 ```
-<br>
+<br/>
 
 ### **2️⃣ Set Up a Virtual Environment (Recommended)**
 ```bash
@@ -27,3 +27,12 @@ python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate      # On Windows
 ```
+<br/>
+
+### **3️⃣ Install Dependencies**
+```
+pip install -r requirements.txt
+```
+<br/>
+
+### ****
