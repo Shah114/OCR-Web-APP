@@ -59,5 +59,15 @@ python app.py
 ```
 <br/>
 
+### **📌 Technologies Used**
+* Python (Flask) - Web Framework
+* EasyOCR - OCR Processing
+* SQLite - Database Storage
+* HTML + CSS - Frontend UI
+* FontAwesome Icons - UI Enhancements
+
+<br/>
+
+### **
 
 
