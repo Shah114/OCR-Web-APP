@@ -1,5 +1,0 @@
-Flask
-easyocr
-pillow
-werkzeug
-sqlite3
