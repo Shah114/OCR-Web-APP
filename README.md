@@ -16,5 +16,5 @@ Follow these steps to set up the project on your local machine.
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/ocr-web-app.git
+git clone https://github.com/Shah114/ocr-web-app.git
 cd ocr-web-app
