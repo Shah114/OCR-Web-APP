@@ -20,6 +20,7 @@ git clone https://github.com/Shah114/ocr-web-app.git
 cd ocr-web-app
 ```
 
+
 ### **2️⃣ Set Up a Virtual Environment (Recommended)**
 ```bash
 python -m venv venv
