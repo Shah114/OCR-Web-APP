@@ -19,7 +19,7 @@ Follow these steps to set up the project on your local machine.
 git clone https://github.com/Shah114/ocr-web-app.git
 cd ocr-web-app
 ```
-
+<br>
 
 ### **2️⃣ Set Up a Virtual Environment (Recommended)**
 ```bash
