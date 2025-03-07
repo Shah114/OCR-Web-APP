@@ -1,4 +1,3 @@
-# OCR-Web-APP
 # 📝 OCR Web App with Flask & EasyOCR
 
 This is a **Flask-based OCR web application** that extracts text from images (such as IDs or license plates) using **EasyOCR**. The extracted text is stored in an SQLite database and can be **edited, deleted, and downloaded as CSV or JSON**.
