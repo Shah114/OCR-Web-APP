@@ -41,7 +41,23 @@ python app.py
 ```
 ✅ Your app is now running! Open http://127.0.0.1:5000/ in your browser.
 
-
 <br/>
+
+### **📌 Project Structure**
+```bash
+📂 ocr-web-app
+│── 📂 static/uploads/      # Uploaded images
+│── 📂 templates/           # HTML files
+│   ├── index.html          # Frontend UI
+│── 📂 data_storage/        # Database & stored OCR data
+│   ├── database.db         # SQLite database
+│   ├── ocr_data.csv        # Extracted text in CSV format
+│   ├── ocr_data.json       # Extracted text in JSON format
+│── app.py                  # Flask backend
+│── requirements.txt        # Python dependencies
+│── README.md               # Project documentation
+```
+<br/>
+
 
 
