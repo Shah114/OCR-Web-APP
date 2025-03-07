@@ -68,6 +68,13 @@ python app.py
 
 <br/>
 
-### **
+## **📌 Future Enhancements**
+🚀 Add Drag & Drop File Upload
+🚀 Improve OCR Accuracy with Image Preprocessing
+🚀 Deploy to Heroku or AWS
+
+<br/>
+
+## **
 
 
