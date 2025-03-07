@@ -43,7 +43,7 @@ python app.py
 
 <br/>
 
-### **📌 Project Structure**
+## **📌 Project Structure**
 ```bash
 📂 ProjectOCR
 │── 📂 static/uploads/      # Uploaded images
@@ -59,7 +59,7 @@ python app.py
 ```
 <br/>
 
-### **📌 Technologies Used**
+## **📌 Technologies Used**
 * Python (Flask) - Web Framework
 * EasyOCR - OCR Processing
 * SQLite - Database Storage
