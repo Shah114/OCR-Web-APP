@@ -45,7 +45,7 @@ python app.py
 
 ### **📌 Project Structure**
 ```bash
-📂 ocr-web-app
+📂 ProjectOCR
 │── 📂 static/uploads/      # Uploaded images
 │── 📂 templates/           # HTML files
 │   ├── index.html          # Frontend UI
