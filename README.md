@@ -69,12 +69,13 @@ python app.py
 <br/>
 
 ## **📌 Future Enhancements**
-🚀 Add Drag & Drop File Upload
-🚀 Improve OCR Accuracy with Image Preprocessing
+🚀 Add Drag & Drop File Upload <br/>
+🚀 Improve OCR Accuracy with Image Preprocessing <br/>
 🚀 Deploy to Heroku or AWS
 
 <br/>
 
-## **
+## **📌 License**
+This project is open-source and available under the MIT License.
 
 
